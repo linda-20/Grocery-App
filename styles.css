@@ -121,7 +121,8 @@ body, h1, h2, p, ul {
     height: auto;
     margin-bottom: 10px;
   }
-  
+   
+  /* styling the buy button */
   .buy-button {
     background-color: #4CAF50;
     color: #fff;
