@@ -1,0 +1,183 @@
+
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+  }
+  
+  
+  .logo { 
+    margin-right: 20px; 
+    font-size: 36px; 
+   color: green; 
+    font-weight: bolder; 
+  } 
+  
+  
+  .logo i {
+    color:green;
+    padding-right: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Styles */
+  h1 {
+    text-align: center;
+    color: #4CAF50;
+  }
+  
+  .header-1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-box-container {
+    display: flex;
+    padding-left: 20px;
+  }
+  
+  #search-box {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+  }
+  
+  .header-2 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  
+  #total-products,
+  #contact-info {
+      margin-top: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+  }
+  
+  #contact-info p {
+      margin: 0;
+  }
+  
+  
+  /* Grocery Styles */
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .grocery-item {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    cursor: pointer;
+  }
+  
+  .grocery-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .grocery-item h2 {
+    font-size: 24px;
+    color: #4CAF50;
+  }
+  
+  .grocery-item p {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .grocery-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .buy-button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .buy-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Image Container Styles */
+  .image-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Responsive Styles */
+  @media screen and (max-width: 768px) {
+    .grocery-item {
+        width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    #search-box {
+        width: 100%;
+    }
+  }
+  
+  .contact-container {
+    text-align: center;
+  }
+  .section {
+    padding: 80px 0;
+  }
+  
+  .contact-icons {
+    margin-bottom: 20px;
+  }
+  
+  .contact-icons a {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  #contactForm input,
+  #contactForm textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  
