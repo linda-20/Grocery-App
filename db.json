@@ -1,0 +1,184 @@
+{
+    "groceries":[
+   {
+    "id": "1",
+    "name": "Apple",
+    "description": "A crunchy and sweet fruit with a red skin.",
+    "color": "Red",
+    "taste": "Sweet",
+    "price":"ksh 35",
+    "image":"https://t4.ftcdn.net/jpg/05/25/30/71/240_F_525307190_16TB4HM5SngbgUldEroyaAix86nKYX5r.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Banana",
+    "description": "A soft and sweet fruit with a yellow peel.",
+    "color": "Yellow",
+    "taste": "Sweet",
+    "price": "ksh 20",
+    "image":"https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Nuts",
+    "description": "dry, single-seeded fruits that have high oil content.",
+    "color": "brown",
+    "taste": "Citrusy",
+    "price":"ksh 60",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTw_24k4sWwA8Oi8ouWrtvmh0Tsng5K18rw&usqp=CAU"
+  },
+  {
+    "id": "4",
+    "name": "Cofee",
+    "description": " a beverage brewed from roasted coffee beans",
+    "color": "Brown",
+    "taste": "Sweet",
+    "price":"ksh 200",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM43Cz-hVdZsVfpjBTca1YD5Awy1noAFGtdw&usqp=CAU"
+  },
+  {
+    "id": "5",
+    "name": "Kales",
+    "description": "A small, brown fruit with green flesh, known for its tart flavor.",
+    "color": "Green",
+    "taste": "Tart",
+    "price":"ksh 80",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAiUqAIlljo3U0w138OSe5UTFOKEmsaT4PQ&usqp=CAU"
+  },
+  {
+    "id": "5",
+    "name": "Water",
+    "description": "Juicy and vibrant",
+    "color": "None",
+    "taste": "Sweet",
+    "price":"ksh 120",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxKD53L_3FmVuzcV7VIvdur_EFzBqJm3-ag&usqp=CAU"
+  },
+  {
+    "id": "6",
+    "name": "Mango",
+    "description": "Tropical and aromatic",
+    "color": "Yellow",
+    "taste": "Sweet",
+    "price":"ksh 50",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfTZuVkv5MealRIQa2uhgd5xwU2llm2IPuQ&usqp=CAU"
+  },
+  {
+    "id": "7",
+    "name": "Pineapple",
+    "description": "Tangy and tropical",
+    "color": "Yellow",
+    "taste": "Tangy",
+    "price":"ksh 60",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFk21mlckqNOJfBa4YASjHeN8CU65fxEwTew&usqp=CAU"
+  },
+  {
+    "id": "8",
+    "name": "Juice",
+    "description": "Refreshing and hydrating",
+    "color": "Green",
+    "taste": "Sweet and Juicy",
+    "price":"ksh 50",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdGpEJJi9hCyOvmxZzzbWTMYZRjHu1XtZoAQ&usqp=CAU"
+  },
+  {
+    "id": "10",
+    "name": "Avocado",
+    "description": "Bright green fruit with a large pit and dark leathery skin",
+    "color": "Grean",
+    "taste": "Sweet",
+    "price":"ksh 100",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSDSSqfJq73K6yd_Tfxi1d0Hb1ByGRp2eAIg&usqp=CAU"
+  },
+  {
+    "id": "11",
+    "name": "Yellow Maize",
+    "description": "it's sweet, succulent, and the skin pops as you bite it",
+    "color": "Yellow",
+    "taste": "Sweet",
+    "price":"ksh 50",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40a_gumvWeBnbf8anW9eXWPKLlaPGPHoqag&usqp=CAU"
+  },
+  {
+    "id": "12",
+    "name": "Eggs",
+    "description": "They are an excellent source of high-quality protein",
+    "color": "white or brown",
+    "taste": "Sweet",
+    "price":"ksh 50",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrrZUTIytGK0cYQPhOKNAsKUTyMsm_nfinA&usqp=CAU"
+  },
+  {
+    "id": "13",
+    "name": "Rice",
+    "description": "milled rice that has had its husk, bran, and germ removed.",
+    "color": "White",
+    "taste": "Sweet",
+    "price":"ksh 100",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6JCFRDImtHOpAbkq28DC8MFp9Rn6jH7XrDw&usqp=CAU"
+  },
+  {
+    "id": "14",
+    "name": "Onions",
+    "description": " a round vegetable with a red skin",
+    "color": "Red",
+    "taste": "Sweet",
+    "price":"ksh 50",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1FX06VCmWXDU-ydyV6xxildzO80n7pKTXbg&usqp=CAU"
+  },
+    {
+    "id": "15",
+    "name": "Green peas",
+    "description": "Bright green fruit with a large pit and dark leathery skin",
+    "color": "Green",
+    "taste": "Sweet",
+    "price":"ksh 100",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2LfFry6La9yZdHphqlpXzLtpsvpCbApCRzw&usqp=CAU"
+  },
+  {
+    "id": "16",
+    "name": "Tomatoes",
+    "description": "Bright green fruit with a large pit and dark leathery skin",
+    "color": "Red",
+    "taste": "Sweet",
+    "price":"ksh 50",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSNMlnzN4FRugbLq6RoauTE61CIJWZdFtyQ&usqp=CAU"
+  },
+  {
+    "id": "17",
+    "name": "Cabbage",
+    "description": "has numerous pale green leaves ",
+    "color": "Green",
+    "taste": "Sweet",
+    "price":"ksh 50",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzaUr90ZZfTOHnLI8SokfM3P6-UJ_tBBkljQ&usqp=CAU"
+  },
+  {
+    "id": "18",
+    "name": "Milk",
+    "description": "pasteurized, homogenised version of milk. ",
+    "color": "White",
+    "taste": "Sweet",
+    "price":"ksh 50",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOaaNFJ7RpYSJOQSB4oGUzxN4QHZTK6OX6Hg&usqp=CAU"
+  },
+  {
+    "id": "19",
+    "name": "Cheese",
+    "description": "It comprises proteins and fat from milk ",
+    "color": "White",
+    "taste": "buttery",
+    "price":"ksh 50",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyWcGVRXzfAYFVsotqMDnWD6D7cwEleT7B-w&usqp=CAU"
+  },
+   {
+    "id": "20",
+    "name": "Carrots",
+    "description": "they ahave a sweet and crunchy taste",
+    "color": "orange",
+    "taste": "Sweet",
+    "price":"ksh 50",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpH7_4zaisYhYMyX0JoXEyrF0eCAGMH8Jh4w&usqp=CAU"
+   }
+  ]
+  }
