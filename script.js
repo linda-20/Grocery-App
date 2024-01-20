@@ -18,7 +18,7 @@ fetch('http://localhost:3000/groceries')
             // Loop through filtered groceries and create elements
             filteredGroceries.forEach(grocery => {
                 const groceryDiv = document.createElement('div');
-                groceryDiv.className = 'grocery-item'; // Add a class for styling
+                groceryDiv.className = 'grocery-item'; 
                 groceryDiv.innerHTML = `
                     <h2>${grocery.name}</h2>
                     <p>Description: ${grocery.description}</p>
