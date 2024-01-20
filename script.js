@@ -30,7 +30,7 @@ fetch('http://localhost:3000/groceries')
                     <hr>
                 `;
 
-                
+                // Append the grocery div to the grocery-list container
                 document.getElementById('grocery-list').appendChild(groceryDiv);
 
                 
