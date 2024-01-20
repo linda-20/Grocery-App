@@ -54,7 +54,7 @@ fetch('http://localhost:3000/groceries')
                         if (result.isConfirmed) {
                             Swal.fire(
                                 'Success!',
-                                `${grocery.name} has been added to your cart.`,
+                                `${grocery.name} your order has been received and  at it will be delivered in 10 minutes time! .`,
                                 'success'
                             );
                         }
