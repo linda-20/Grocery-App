@@ -63,7 +63,7 @@ fetch('http://localhost:3000/groceries')
             });
         }
 
-        
+         // Display all groceries initially
         displayGroceries();
 
         // Search box functionality
