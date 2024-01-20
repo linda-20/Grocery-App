@@ -38,7 +38,7 @@ fetch('http://localhost:3000/groceries')
                     document.getElementById('grocery-image').src = grocery.image;
                 });
 
-                // Add click event listener to the "Buy" button
+                // Add click event listener to the 'Buy' button
                 const buyButton = groceryDiv.querySelector('.buy-button');
                 buyButton.addEventListener('click', () => {
                     // Display SweetAlert confirmation
