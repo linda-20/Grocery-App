@@ -10,7 +10,7 @@ fetch('http://localhost:3000/groceries')
             // Clear previous results
             document.getElementById('grocery-list').innerHTML = "";
 
-            
+            // Filter groceries based on the search query
             const filteredGroceries = groceries.filter(grocery =>
                 grocery.name.toLowerCase().includes(searchQuery.toLowerCase())
             );
