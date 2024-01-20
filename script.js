@@ -10,7 +10,7 @@ fetch('http://localhost:3000/groceries')
             // Clear previous results
             document.getElementById('grocery-list').innerHTML = "";
 
-            // Filter groceries based on the search query
+            
             const filteredGroceries = groceries.filter(grocery =>
                 grocery.name.toLowerCase().includes(searchQuery.toLowerCase())
             );
@@ -30,10 +30,10 @@ fetch('http://localhost:3000/groceries')
                     <hr>
                 `;
 
-                // Append the grocery div to the grocery-list container
+                
                 document.getElementById('grocery-list').appendChild(groceryDiv);
 
-                // Add click event listener to show the image in the image-container
+                
                 groceryDiv.addEventListener('click', () => {
                     document.getElementById('grocery-image').src = grocery.image;
                 });
@@ -63,7 +63,7 @@ fetch('http://localhost:3000/groceries')
             });
         }
 
-        // Display all groceries initially
+        
         displayGroceries();
 
         // Search box functionality
